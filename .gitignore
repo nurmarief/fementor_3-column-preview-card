@@ -1,0 +1,8 @@
+# fementor assets
+*.sketch
+*.fig
+*.xd
+
+node_modules
+.DS_Store
+.vscode
