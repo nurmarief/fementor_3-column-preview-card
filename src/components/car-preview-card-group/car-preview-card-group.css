@@ -1,0 +1,33 @@
+.car-preview-card-group {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  margin-block: 5em;
+  margin-inline: 0;
+  padding: 0;
+  width: 95%;
+  border-radius: 1em;
+  overflow-x: hidden;
+}
+
+/* 576px */
+@media screen and (min-width: 36em) {
+  .car-preview-card-group {
+    width: 80%;
+  }
+}
+
+/* 768px */
+@media screen and (min-width: 48em) {
+  .car-preview-card-group {
+    grid-template-columns: repeat(3, 1fr);
+    width: 95%;
+  }
+}
+
+/* 1200px */
+@media screen and (min-width: 75em) {
+  .car-preview-card-group {
+    grid-template-columns: repeat(3, 1fr);
+    width: 75%;
+  }
+}

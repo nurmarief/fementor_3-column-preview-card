@@ -1,0 +1,12 @@
+.car-preview-card_type_sedans {
+  background-color: var(--bright-orange);
+}
+
+.car-preview-card_type_sedans .car-preview-card__button {
+  color: var(--bright-orange);
+}
+
+.car-preview-card_type_sedans .car-preview-card__button:hover {
+  background-color: var(--bright-orange);
+  color: var(--white);
+}

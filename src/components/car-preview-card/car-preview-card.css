@@ -1,0 +1,8 @@
+.car-preview-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2.5em;
+  font-family: 'Lexend Deca', sans-serif;
+  color: var(--transparent-white);
+}

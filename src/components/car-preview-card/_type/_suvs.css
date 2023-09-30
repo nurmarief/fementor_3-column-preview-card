@@ -1,0 +1,12 @@
+.car-preview-card_type_suvs {
+  background-color: var(--dark-cyan);
+}
+
+.car-preview-card_type_suvs .car-preview-card__button {
+  color: var(--dark-cyan);
+}
+
+.car-preview-card_type_suvs .car-preview-card__button:hover {
+  background-color: var(--dark-cyan);
+  color: var(--white);
+}

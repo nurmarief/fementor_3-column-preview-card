@@ -1,0 +1,12 @@
+.car-preview-card_type_luxury {
+  background-color: var(--very-dark-cyan);
+}
+
+.car-preview-card_type_luxury .car-preview-card__button {
+  color: var(--very-dark-cyan);
+}
+
+.car-preview-card_type_luxury .car-preview-card__button:hover {
+  background-color: var(--very-dark-cyan);
+  color: var(--white);
+}

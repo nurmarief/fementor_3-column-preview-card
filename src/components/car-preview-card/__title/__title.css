@@ -1,0 +1,7 @@
+.car-preview-card__title {
+  font-size: 3em;
+  font-weight: 700;
+  font-family: 'Big Shoulders Display', cursive;
+  margin-block: 0.5em;
+  color: var(--white);
+}
